@@ -38,4 +38,10 @@ The highest user drop-off occurs between **Signup Started** and **Details Filled
 - Excel Pivot Tables
 - Business Analytics
 - Funnel Analysis
-  
+Key Findings
+
+• Total stages analyzed: 5
+• Calculated unique users at each stage
+• Computed stage-to-stage conversion rates
+• Identified the biggest funnel leak between Signup Started and Details Filled
+• Demonstrated the same analysis using Python, SQL, and Excel
