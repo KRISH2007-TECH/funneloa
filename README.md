@@ -39,9 +39,47 @@ The highest user drop-off occurs between **Signup Started** and **Details Filled
 - Business Analytics
 - Funnel Analysis
 Key Findings
+## Results
+
+| Stage | Users | Conversion |
+|-------|------:|-----------:|
+| visited_site | 200 | 100% |
+| signup_started | 150 | 75% |
+| details_filled | 96 | 64% |
+| email_verified | 52 | 54.17% |
+| purchase_completed | 44 | 84.62% |
+
+### Biggest Funnel Leak
+
+signup_started → details_filled
+
+Users Lost: 54
+
+## Project Structure
+
+├── funnel_analysis.ipynb
+├── funnel_analysis.sql
+├── funnel_analysis.xlsx
+├── funnel_events_sample.csv
+├── pythonout.png
+├── sql1op.png
+├── sql2op.png
+├── excelop.png
+└── README.md
 
 • Total stages analyzed: 5
 • Calculated unique users at each stage
 • Computed stage-to-stage conversion rates
 • Identified the biggest funnel leak between Signup Started and Details Filled
 • Demonstrated the same analysis using Python, SQL, and Excel
+## Python Output
+
+![Python](pythonout.png)
+
+## SQL Output
+
+![SQL](sql1op.png)
+
+## Excel Output
+
+![Excel](excelop.png)
