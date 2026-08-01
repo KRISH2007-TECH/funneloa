@@ -75,6 +75,9 @@ Users Lost: 54
 ## Python Output
 
 ![Python](pythonout.png)
+![Python](python4op.png)
+![Python](python3op.png)
+![Python](pythonop5.png)
 
 ## SQL Output
 
