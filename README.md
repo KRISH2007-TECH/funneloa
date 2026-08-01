@@ -83,3 +83,15 @@ Users Lost: 54
 ## Excel Output
 
 ![Excel](excelop.png)
+
+The largest drop-off occurs between Signup Started and Details Filled. This suggests users experience friction while completing the registration form. Reducing the number of required fields, improving form validation, and simplifying the user interface could increase completion rates. Monitoring this step after implementing changes would help measure the impact on overall funnel conversion.
+
+📊 Funnel Visualization
+
+⏱ Average Time Between Stages
+
+⚠ Automatic Biggest Drop-off Detection
+
+👥 Segment-wise Conversion Analysis
+
+💡 Business Recommendation
